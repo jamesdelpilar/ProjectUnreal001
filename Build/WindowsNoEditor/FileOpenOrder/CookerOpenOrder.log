@@ -1,0 +1,667 @@
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Basic_Wall.uasset" 0
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Shapes/Shape_Cube.uasset" 1
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 2
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Elevators_System/ElevatorMaterial.uasset" 3
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Geometry/Meshes/CubeMaterial.uasset" 4
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Geometry/Meshes/1M_Cube.uasset" 5
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Elevators_System/NoKey_BP.uasset" 6
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Elevators_System/ElevatorOpen.uasset" 7
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Elevators_System/Elvator_Open.uasset" 8
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Elevators_System/Door_BP.uasset" 9
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/Blueprints/LightButton.uasset" 10
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/Blueprints/TriesCounter.uasset" 11
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/InterfaceWidgets/Organo.uasset" 12
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/InterfaceWidgets/Organo_Font.uasset" 13
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/InterfaceWidgets/HUDFloor2.uasset" 14
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 15
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 16
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 17
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Character/Textures/T_Male_N.uasset" 18
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Character/Textures/T_Male_Mask.uasset" 19
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 20
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 21
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 22
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 23
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 24
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 25
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 26
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 27
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 28
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 29
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 30
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Character/Materials/M_Male_Body.uasset" 31
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 32
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 33
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 34
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 35
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 36
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 37
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Animations/ThirdPersonRun.uasset" 38
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 39
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 40
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 41
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 42
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 43
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 44
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Elevators_System/KeyPNG.uasset" 45
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Elevators_System/KeyWidget_BP.uasset" 46
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 47
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/ElevatorBoxTesting/ElevatorPlatform_BP.uasset" 48
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/ElevatorBoxTesting/GameOver_TriggerBox_Blueprint.uasset" 49
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 50
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 51
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/Materials/M_ElevatorWall.uasset" 52
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/Materials/ElevatorWalls.uasset" 53
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 54
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 55
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 56
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/Materials/M_Floor.uasset" 57
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/Materials/Floor.uasset" 58
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 59
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 60
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 61
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/Materials/M_Wall.uasset" 62
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/Materials/Wall.uasset" 63
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Spark_Core.uasset" 64
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Particles/Materials/M_Spark.uasset" 65
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 66
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 67
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 68
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 69
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 70
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Particles/P_Sparks.uasset" 71
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/GameOver+Sparks/GameOver_BP.uasset" 72
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/GameOver_BP.uasset" 73
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/ElevatorsPlatform/Door_BP_C.uasset" 74
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/ElevatorsPlatform/Door_BP.uasset" 75
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/ElevatorsPlatform/Default__Door_BP_C.uasset" 76
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Elevators/Door_BP.uasset" 77
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Elevators_System/ElevatorMaterial_Inst.uasset" 78
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/ElevatorsPlatform/ElevatorMaterial_Inst.uasset" 79
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Elevators/ElevatorMaterial_Inst.uasset" 80
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_MacroVariation.uasset" 81
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Metal_Steel.uasset" 82
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Elevators_System/ElevatorsPlatform/ElevatorPlatform_BP.uasset" 83
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/ElevatorsPlatform/ElevatorPlatform_BP.uasset" 84
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 85
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 86
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Metal_Gold.uasset" 87
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Elevators_System/Key_GroundFloor.uasset" 88
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Elevators_System/Key.uasset" 89
+"../../../Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset" 90
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Elevators_System/Key_1stFloor.uasset" 91
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 92
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Elevators_System/Key_2ndFloor.uasset" 93
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Elevators_System/NoKey.uasset" 94
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/FadeToBlack/FadeToBlack_WidgetBlueprint.uasset" 95
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/Wrench/18795_Pipe_WrenchMat.uasset" 96
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/18795_Pipe_WrenchMat.uasset" 97
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/Wrench/Wrench.uasset" 98
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/Wrench.uasset" 99
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/Wrench/Wrench2.uasset" 100
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/Wrench2.uasset" 101
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 102
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 103
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Elevators_System/Key_Pickup_BP.uasset" 104
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/Wrench/Wrench_BP.uasset" 105
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/Wrench_BP.uasset" 106
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/LightPole/defaultMat.uasset" 107
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/LightPole/Light_Pole_0.uasset" 108
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/LightPole/Light_Pole_Skeleton.uasset" 109
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/LightPole/Light_Pole_Anim.uasset" 110
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/Wrench/WrenchPickUp_BP.uasset" 111
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/Wrench/Wrench_Widget_BP.uasset" 112
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Fire_Sparks01.uasset" 113
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/GameOver+Sparks/Sparks_Cue.uasset" 114
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Wrench/M_Metal_Steel.uasset" 115
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 116
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset" 117
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Character/Textures/T_Female_N.uasset" 118
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Character/Textures/T_Female_Mask.uasset" 119
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Character/Materials/MI_Female_Body.uasset" 120
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset" 121
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 122
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 123
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 124
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 125
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/Mesh/Skee_Ball_Machine_Hole_50.uasset" 126
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/Mesh/Skee_Ball_Machine_Hole_40.uasset" 127
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/Mesh/Skee_Ball_Machine_Hole_30.uasset" 128
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/Mesh/Skee_Ball_Machine_Hole_100_R.uasset" 129
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/Mesh/Skee_Ball_Machine_Hole_100_L.uasset" 130
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/Mesh/Skee_Ball_Machine_Hole_10.uasset" 131
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/Mesh/Base.uasset" 132
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/Mesh/Skee_Ball_Machine_Base.uasset" 133
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/Mesh/Base_3.uasset" 134
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/Mesh/Base_2.uasset" 135
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/Mesh/Base_1.uasset" 136
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/SkeeBallMachine.uasset" 137
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/test.uasset" 138
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/Mesh/Base_4.uasset" 139
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/Mesh/Skee_Ball_Machine_Plane_001.uasset" 140
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/Mesh/Skee_Ball_Machine_Plane_002.uasset" 141
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Architecture/Pillar_50x500.uasset" 142
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Architecture/Wall_500x500.uasset" 143
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 144
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 145
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Collapse01.uasset" 146
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Collapse02.uasset" 147
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Explosion01.uasset" 148
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Explosion02.uasset" 149
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Fire01.uasset" 150
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Light01.uasset" 151
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Light01_Cue.uasset" 152
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Light02.uasset" 153
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Light02_Cue.uasset" 154
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Smoke01.uasset" 155
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Starter_Birds01.uasset" 156
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Starter_Wind05.uasset" 157
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Starter_Wind06.uasset" 158
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Steam01.uasset" 159
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 160
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 161
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 162
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 163
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Burst_M.uasset" 164
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Particles/Materials/M_Burst.uasset" 165
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Particles/P_Explosion.uasset" 166
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Explosion_Cue.uasset" 167
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 168
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 169
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 170
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Bush_N.uasset" 171
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Bush_D.uasset" 172
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/Materials/M_Bush.uasset" 173
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/SM_Bush.uasset" 174
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Chair_N.uasset" 175
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Chair_M.uasset" 176
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/Materials/M_Chair.uasset" 177
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/SM_Couch.uasset" 178
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Glass.uasset" 179
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Door_N.uasset" 180
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Door_M.uasset" 181
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/Materials/M_Door.uasset" 182
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/SM_Door.uasset" 183
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 184
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 185
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 186
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_RockMesh_N.uasset" 187
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_RockMesh_M.uasset" 188
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 189
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 190
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/Materials/M_Rock.uasset" 191
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/SM_Rock.uasset" 192
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Shelf_N.uasset" 193
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Shelf_M.uasset" 194
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/Materials/M_Shelf.uasset" 195
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/SM_Shelf.uasset" 196
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Basic_Floor.uasset" 197
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/SM_Stairs.uasset" 198
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Shapes/Shape_Cone.uasset" 199
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 200
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Shapes/Shape_Pipe.uasset" 201
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 202
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 203
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Shapes/Shape_Plane.uasset" 204
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Shapes/Shape_Torus.uasset" 205
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Shapes/Shape_Trim.uasset" 206
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 207
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 208
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 209
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Shapes/Shape_Tube.uasset" 210
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 211
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 212
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 213
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/ThirdPersonBP/ThirdPersonOverview.uasset" 214
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 215
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 216
+"../../../Engine/Content/BasicShapes/Cone.uasset" 217
+"../../../Engine/Content/BasicShapes/Plane.uasset" 218
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 219
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 220
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 221
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 222
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 223
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 224
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 225
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 226
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 227
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 228
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 229
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 230
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 231
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 232
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 233
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 234
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 235
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 236
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 237
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 238
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 239
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 240
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 241
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 242
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 243
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 244
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 245
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 246
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 247
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 248
+"../../../Engine/Content/EditorResources/S_Note.uasset" 249
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 250
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 251
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 252
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 253
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 254
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 255
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 256
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 257
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 258
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 259
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 260
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 261
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 262
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 263
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 264
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 265
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 266
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 267
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 268
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 269
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 270
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 271
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 272
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 273
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 274
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 275
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 276
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 277
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 278
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 279
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 280
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 281
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 282
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 283
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 284
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 285
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 286
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 287
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 288
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 289
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 290
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 291
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 292
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 293
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 294
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 295
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 296
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 297
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 298
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 299
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 300
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 301
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 302
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 303
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 304
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 305
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 306
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 307
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 308
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 309
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 310
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 311
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 312
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 313
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 314
+"../../../Engine/Content/EngineResources/Black.uasset" 315
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 316
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 317
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 318
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 319
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 320
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 321
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 322
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 323
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 324
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 325
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 326
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 327
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 328
+"../../../Engine/Content/EngineSounds/Master.uasset" 329
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 330
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 331
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 332
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 333
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 334
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 335
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 336
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 337
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 338
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 339
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 340
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 341
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 342
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 343
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 344
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 345
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 346
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 347
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 348
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 349
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 350
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 351
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 352
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 353
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 354
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 355
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 356
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 357
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 358
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 359
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 360
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 361
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 362
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 363
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 364
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 365
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 366
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 367
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 368
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 369
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 370
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 371
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 372
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 373
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 374
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 375
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 376
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 377
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 378
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 379
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 380
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 381
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 382
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 383
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 384
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 385
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 386
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 387
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 388
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 389
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 390
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 391
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 392
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 393
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 394
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 395
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 396
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 397
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 398
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 399
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 400
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 401
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 402
+"../../../Engine/Content/BasicShapes/Cube.uasset" 403
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/Floor2_BuiltData.uasset" 404
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 405
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/Blueprints/NextLevel.uasset" 406
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/Blueprints/click.uasset" 407
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/Blueprints/ButtonLitSound.uasset" 408
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/Blueprints/LightButtonSwitch.uasset" 409
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/Floor2.umap" 410
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/GameOverScene/GameOverController.uasset" 411
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/GameOverScene/GameOverGameMode.uasset" 412
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/GameOverScene/Game_Over.uasset" 413
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/InterfaceWidgets/ButtonPressed.uasset" 414
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/InterfaceWidgets/ButtonHover.uasset" 415
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/InterfaceWidgets/ButtonNoraml.uasset" 416
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/InterfaceWidgets/DeathScreen.uasset" 417
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/GameOverScene/GameOverMap.umap" 418
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/InterfaceWidgets/StartMenu.uasset" 419
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Starter_Music01.uasset" 420
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/StartMenuScene/StartMenuController.uasset" 421
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/StartMenuScene/StartMenuGameMode.uasset" 422
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/StartMenuScene/StartMenuMap.umap" 423
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/InterfaceWidgets/VictoryScreen.uasset" 424
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/VictoryScreenScene/VictoryScreenController.uasset" 425
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/VictoryScreenScene/VictoryScreenGameMode.uasset" 426
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Ivan/VictoryScreenScene/VictoryScreenMap.umap" 427
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Architecture/Floor_400x400.uasset" 428
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Water_M.uasset" 429
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Water_N.uasset" 430
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 431
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Water_Ocean.uasset" 432
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/ElevatorBoxTesting/Floor_400x400_Blueprint.uasset" 433
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 434
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Architecture/Wall_400x400.uasset" 435
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Architecture/Wall_400x300.uasset" 436
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/LightPole/Light_Pole_PhysicsAsset.uasset" 437
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/LightPole/None__Light_Pole_Broken_png.uasset" 438
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/LightPole/Light_Pole.uasset" 439
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 440
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 441
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 442
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/PowerBox_TurboSquid/powerbox1.uasset" 443
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/PowerBox_TurboSquid/powerbox1_Mat.uasset" 444
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/Light_Pole.uasset" 445
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/Light_Pole_Mat.uasset" 446
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 447
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/GroundFloor_BuiltData.uasset" 448
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Wrench/WrenchModel.uasset" 449
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Wrench/ItemPickup.uasset" 450
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Wrench/WrenchPickUp_BP.uasset" 451
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Wrench/MachinePowerOff.uasset" 452
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/PowerBox_TurboSquid/meshMat.uasset" 453
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Floor1Assets/PowerBox_TurboSquid/powerbox1_0.uasset" 454
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 455
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Electricity/ElectrifiedWater.uasset" 456
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Wrench/PowerBoxOn_BP.uasset" 457
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/MovingPlatforms/PlatformOpacityMAT.uasset" 458
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/MovingPlatforms/MovingPlatform_BP.uasset" 459
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 460
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/JumpPad/Bounce.uasset" 461
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/JumpPad/JumpPad_BP.uasset" 462
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Metal_Gold_Inst.uasset" 463
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/Elevators_System/Key_BP.uasset" 464
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 465
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 466
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 467
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 468
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 469
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/James/GroundFloor.umap" 470
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/SkeeBallUMG.uasset" 471
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/Mesh/Material_003.uasset" 472
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/Mesh/Material_002.uasset" 473
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/Mesh/Material_001.uasset" 474
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/Mesh/Skee_Ball_Machine_01.uasset" 475
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 476
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 477
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/Ball.uasset" 478
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/BP_Skee_Ball_Machine_01.uasset" 479
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Nel/Level_03.umap" 480
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 481
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 482
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 483
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 484
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 485
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 486
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 487
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 488
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 489
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 490
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 491
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 492
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 493
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 494
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 495
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 496
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 497
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 498
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 499
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 500
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_AssetPlatform.uasset" 501
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 502
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Maps/Advanced_Lighting.umap" 503
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_TableRound_N.uasset" 504
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_TableRound_M.uasset" 505
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/Materials/M_TableRound.uasset" 506
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/SM_TableRound.uasset" 507
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Statue_N.uasset" 508
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Statue_M.uasset" 509
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/Materials/M_Statue.uasset" 510
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 511
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/SM_Statue.uasset" 512
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/SM_Chair.uasset" 513
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 514
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Metal_Copper.uasset" 515
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 516
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 517
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Maps/Minimal_Default.umap" 518
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Shapes/Shape_Sphere.uasset" 519
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 520
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Frame_N.uasset" 521
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Frame_M.uasset" 522
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/Materials/M_Frame.uasset" 523
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/SM_WindowFrame.uasset" 524
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/SM_PillarFrame300.uasset" 525
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/SM_PillarFrame.uasset" 526
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/SM_GlassWindow.uasset" 527
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/SM_DoorFrame.uasset" 528
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/SM_CornerFrame.uasset" 529
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/MaterialSphere.uasset" 530
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 531
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 532
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 533
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 534
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 535
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 536
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 537
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 538
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Wood_Pine.uasset" 539
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 540
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 541
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Wood_Oak.uasset" 542
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 543
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 544
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 545
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 546
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 547
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 548
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Water_Lake.uasset" 549
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 550
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 551
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Tech_Panel.uasset" 552
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 553
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 554
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 555
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 556
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 557
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 558
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 559
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 560
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 561
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Rock_Slate.uasset" 562
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 563
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 564
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 565
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 566
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 567
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 568
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 569
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 570
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 571
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Metal_Rust.uasset" 572
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 573
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 574
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 575
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Ground_Moss.uasset" 576
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 577
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 578
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 579
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 580
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 581
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Ground_Grass.uasset" 582
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 583
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 584
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 585
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 586
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 587
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 588
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 589
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 590
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 591
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 592
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Gradinet_01.uasset" 593
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 594
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 595
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 596
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 597
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 598
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 599
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 600
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 601
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 602
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 603
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 604
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 605
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 606
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 607
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 608
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 609
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 610
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 611
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 612
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 613
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 614
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 615
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 616
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 617
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 618
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 619
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 620
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 621
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 622
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 623
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 624
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 625
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 626
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 627
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 628
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Lamp_N.uasset" 629
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Lamp_M.uasset" 630
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/Materials/M_Lamp.uasset" 631
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 632
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 633
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Particles/P_Steam_Lit.uasset" 634
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Steam01_Cue.uasset" 635
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 636
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 637
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Particles/P_Smoke.uasset" 638
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Smoke01_Cue.uasset" 639
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 640
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 641
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 642
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 643
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 644
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Particles/P_Fire.uasset" 645
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Fire01_Cue.uasset" 646
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 647
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 648
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 649
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 650
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Audio/Collapse_Cue.uasset" 651
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 652
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Architecture/Wall_400x200.uasset" 653
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/StarterContent/Maps/StarterMap.umap" 654
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Geometry/Meshes/TemplateFloor.uasset" 655
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 656
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 657
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/ThirdPerson/Meshes/RampMaterial.uasset" 658
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 659
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 660
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 661
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 662
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 663
+"../../../../Documents/Unreal Projects/ProjectUnreal001/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 664
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 665
+"../../../Engine/Content/Maps/Entry.umap" 666
